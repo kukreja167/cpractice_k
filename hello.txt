@@ -1,2 +1,6 @@
 int main()
-{ print("hello world" }
+{ print("hello world")
+scanf("d",&n)
+printf("this is the first c program")
+return 0;
+}

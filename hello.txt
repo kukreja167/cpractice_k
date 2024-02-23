@@ -11,4 +11,8 @@ So this is the 2nd commmit i doing
 
 and now we are learning pull request.
 
+<<<<<<< HEAD
 hello...
+
+hello...i m pallavi
+>>>>>>> 634674ff14c979cfca79c9174d18ea29122eaeef

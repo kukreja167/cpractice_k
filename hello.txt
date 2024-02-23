@@ -12,7 +12,15 @@ So this is the 2nd commmit i doing
 and now we are learning pull request.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello...
 
 hello...i m pallavi
 >>>>>>> 634674ff14c979cfca79c9174d18ea29122eaeef
+=======
+hello
+
+hello...i m pallavi
+>>>>>>> 634674ff14c979cfca79c9174d18ea29122eaeef
+hello.. im neha
+>>>>>>> b322d369981510e09c71fd0c56b5308484fbe43b

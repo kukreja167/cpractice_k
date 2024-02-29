@@ -29,5 +29,10 @@ hello.. im neha
 
 hello i m kavya kukreja g10
 
+<<<<<<< HEAD
 hello i m lavisha g10
 this is my second commit
+=======
+
+hello i m mehak from g10
+>>>>>>> 96386bdece77cba0f51458b3a5a12049c4723d18

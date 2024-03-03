@@ -39,3 +39,10 @@ hello i m mehak from g10
 
 
 hi there i m ishita singla pursuing cse from CUIET
+
+
+
+#include <stdio.h>
+{
+printf("hello world");
+}

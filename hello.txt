@@ -50,3 +50,9 @@ printf("hello world");
 
 
 hello i m japnoor from g10
+
+
+#include <stdio.h>
+{
+printf("hello world i m kanika");
+}
